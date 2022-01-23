@@ -6,7 +6,7 @@
 
 #### A part from a few progamming languages I can speak Arabic, English and Turkish. My hobbies include playing the guitar (i suck), playing the YoYo, watching Anime, reading Manga, and of course — programming.
 
----------------	
+---
 
 <h2 style="border-bottom: none;"> Technologies: </h2>
 
@@ -29,16 +29,16 @@
 <img align="left" alt="SVG" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/svg.svg" />
 <img align="left" alt="FIREBASE" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/firebase.svg" />
 
-
+<!-- 
 <img align="left" alt="ELECTRON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" />
 <img align="left" alt="MRKSDWN" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/markdown.svg" />
-<img align="left" alt="BTSTRP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
+<img align="left" alt="BTSTRP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" /> -->
 
-[//]: <> (FIX THIS^^^)
+<!-- [//]: <> (FIX THIS^^^) -->
 
 <br />
 
-<h2 style="border-bottom: none;"> Learning: </h2>
+<h2 align="left" style="border-bottom: none;"> Learning: </h2>
 
 <img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/swift.svg" />
 <img align="left" alt="PY" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/python.svg" />
@@ -63,9 +63,10 @@
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanTheSyrian&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanTheSyrian&count_private=true&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanTheSyrian&layout=compact&langs_count=10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanTheSyrian&layout=compact&langs_count=10&theme=github_dark)
+##### Cards by ***Anurag Hazra***
 
 
 [website]: https://syrian.dev
