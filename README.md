@@ -38,7 +38,7 @@
 
 <br />
 
-<h2 align="left" style="border-bottom: none;"> Learning: </h2>
+<h2 style="border-bottom: none;"> Learning: </h2>
 
 <img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/swift.svg" />
 <img align="left" alt="PY" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/python.svg" />
