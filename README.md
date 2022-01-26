@@ -64,8 +64,8 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HasanTheSyrian&count_private=true&show_icons=true&theme=github_dark" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanTheSyrian&layout=compact&langs_count=10&theme=github_dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HasanTheSyrian&count_private=true&show_icons=true&theme=github_dark" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanTheSyrian&layout=compact&langs_count=10&theme=github_dark" />
   </a>
 </p>
 <br>
