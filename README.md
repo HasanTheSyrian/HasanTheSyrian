@@ -1,6 +1,5 @@
 <h1 style="border-bottom: none;"> Hello. 👋 I'm Hasan.  </h1>
 
----
 
 ### I'm a Mechatronics and Software Engineering student in Turkey. I'm mainly interested in building websites, games, native mobile/desktop applications, robotics and maybe a little bit of AI. In terms of design, I lean more towards modernism, and I am willing to venture into illustration and 3D modelling.
 
@@ -68,20 +67,20 @@
 
 ---
 
-<br/>
 <p align="center">
+<a href="https://github.com/HasanTheSyrian">    <!-- will change to portfolio in the future -->
     <img width="45.5%" src="http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=holi-theme&ring=28E5FF&fire=93F2FF&sideNums=8ED6FF&sideLabels=5faaed&currStreakLabel=93F2FF&currStreakNum=8dd5fe&date_format=M%20j%5B%2C%20Y%5D&background=0d1117" />                                                        
   </a>
 </p>
 
-<br />
 
 <p align="center">
+  <a href="https://github.com/HasanTheSyrian">  <!-- will change to portfolio in the future -->
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=react-dark&point=d5e6fe&line=5faaed&color=5faaed" />
   </a>
 </p>
 
-##### Cards by ***Anurag Hazra***
+##### Cards by ***DenverCoder1*** and ***Ashutosh00710***
 
 
 [website]: https://syrian.dev
