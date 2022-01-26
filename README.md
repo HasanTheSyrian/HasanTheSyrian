@@ -63,17 +63,26 @@
 ---
 
 <br/>
-<p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HasanTheSyrian&count_private=true&show_icons=true&theme=github_dark" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanTheSyrian&layout=compact&langs_count=10&theme=github_dark" />
+<p align="center">
+    <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=dracula" /> -->
+    <img width="45.5%" src="http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <br>
 
+<p align="center">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=react-dark" />
+    <!-- <img width="45.5%" src="http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=github_darkn&date_format=M%20j%5B%2C%20Y%5D" /> -->
+  </a>
+</p>
 
-[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanTheSyrian&count_private=true&show_icons=true&theme=github_dark)](https://github.com/HasanTheSyrian)
+<!-- [Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=dracula) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanTheSyrian&layout=compact&langs_count=10&theme=github_dark)](https://github.com/HasanTheSyrian)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+
+<!-- [![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanTheSyrian&count_private=true&show_icons=true&theme=github_dark)](https://github.com/HasanTheSyrian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanTheSyrian&layout=compact&langs_count=10&theme=github_dark)](https://github.com/HasanTheSyrian) -->
 ##### Cards by ***Anurag Hazra***
 
 
