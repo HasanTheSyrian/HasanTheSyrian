@@ -8,7 +8,7 @@
 
 ---
 
-<h2 style="border-bottom: none;"> Technologies: </h2>
+<h2 style="border-bottom: none !important;"> Technologies: </h2>
 
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/javascript.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/html.svg" />
@@ -37,8 +37,11 @@
 <!-- [//]: <> (FIX THIS^^^) -->
 
 <br />
+<br />
 
-<h2 style="border-bottom: none;"> Learning: </h2>
+
+
+<h2 style="border-bottom: none !important;"> Learning: </h2>
 
 <img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/swift.svg" />
 <img align="left" alt="PY" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/python.svg" />
@@ -50,8 +53,11 @@
 <img align="left" alt="DOCKER" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/docker.svg" />
 
 <br />
+<br />
 
-<h2 style="border-bottom: none;"> Connect: </h2>
+
+
+<h2 style="border-bottom: none !important;"> Connect: </h2>
 
 
 [<img style="fill: white !important;" align="left" alt="codeSTACKr.com" width="22px" src="globe.svg" />][website]
@@ -64,25 +70,17 @@
 
 <br/>
 <p align="center">
-    <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=dracula" /> -->
     <img width="45.5%" src="http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=holi-theme&ring=28E5FF&fire=93F2FF&sideNums=8ED6FF&sideLabels=5faaed&currStreakLabel=93F2FF&currStreakNum=8dd5fe&date_format=M%20j%5B%2C%20Y%5D&background=0d1117" />                                                        
   </a>
 </p>
-<br>
+
+<br />
 
 <p align="center">
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=react-dark&point=d5e6fe&line=5faaed&color=5faaed" />
-    <!-- <img width="45.5%" src="http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=github_darkn&date_format=M%20j%5B%2C%20Y%5D" /> -->
   </a>
 </p>
 
-<!-- [Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=dracula) -->
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-<!-- [![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanTheSyrian&count_private=true&show_icons=true&theme=github_dark)](https://github.com/HasanTheSyrian)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanTheSyrian&layout=compact&langs_count=10&theme=github_dark)](https://github.com/HasanTheSyrian) -->
 ##### Cards by ***Anurag Hazra***
 
 
