@@ -65,13 +65,13 @@
 <br/>
 <p align="center">
     <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=dracula" /> -->
-    <img width="45.5%" src="http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D" />
+    <img width="45.5%" src="http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=holi-theme&ring=28E5FF&fire=93F2FF&sideNums=8ED6FF&sideLabels=5faaed&currStreakLabel=93F2FF&currStreakNum=8dd5fe&date_format=M%20j%5B%2C%20Y%5D&background=0d1117" />                                                        
   </a>
 </p>
 <br>
 
 <p align="center">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=react-dark" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=react-dark&point=d5e6fe&line=5faaed&color=5faaed" />
     <!-- <img width="45.5%" src="http://github-readme-streak-stats.herokuapp.com?user=HasanTheSyrian&theme=github_darkn&date_format=M%20j%5B%2C%20Y%5D" /> -->
   </a>
 </p>
