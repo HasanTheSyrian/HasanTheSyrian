@@ -1,4 +1,4 @@
-<h1 style="border-bottom: none;"> Hello. 👋 I'm Hasan.  </h1>
+<h1 style="border-bottom: none;"> Hello. I'm Hasan.  </h1>
 
 
 ### I'm a Mechatronics and Software Engineering student in Turkey. I'm mainly interested in building websites, games, native mobile/desktop applications, robotics and maybe a little bit of AI. In terms of design, I lean more towards modernism, and I am willing to venture into illustration and 3D modelling.
