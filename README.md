@@ -47,7 +47,6 @@
 <img align="left" alt="VUE" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/vue.svg" />
 <img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/typescript.svg" />
 <img align="left" alt="BABEL" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/babel.svg" />
-<img align="left" alt="THREEJS" width="26px" src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" />
 <img align="left" alt="DOCKER" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/docker.svg" />
 
 <br />
