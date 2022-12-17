@@ -12,6 +12,7 @@
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/javascript.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/css.svg" />
+<img align="left" alt="PY" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/python.svg" />
 <img align="left" alt="ARDUINO" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/arduino.svg" />
 <img align="left" alt="RPI" width="21px" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" />
 
@@ -42,7 +43,6 @@
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/cpp.svg" />
 <img align="left" alt="RUST" width="26px" src="https://eravila.files.wordpress.com/2021/12/rust-logo.png" />
 <img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/swift.svg" />
-<img align="left" alt="PY" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/python.svg" />
 <img align="left" alt="REACT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/react.svg" />
 <img align="left" alt="VUE" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/vue.svg" />
 <img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/typescript.svg" />
