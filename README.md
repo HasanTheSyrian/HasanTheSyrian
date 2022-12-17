@@ -30,7 +30,7 @@
 
 
 <img align="left" alt="ELECTRON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" />
-<img align="left" alt="MRKSDWN" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/markdown.svg" />
+
 
 
 <br />
