@@ -1,69 +1,38 @@
-<h1 style="border-bottom: none;"> Hello. I'm Hasan.  </h1>
+# Hello, I'm Hasan
+
+#### I'm a Mechatronics Engineering student in İstanbul, Turkey. I'm interested in a multitude of things from building full-stack web applications to designing electrical circuits. 
+
+#### My hobbies include playing the guitar and the YoYo. 
+
+# Socials
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hasanalaref999) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasanthesyrian_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16951917) 
+
+# Technologies
 
 
-### I'm a Mechatronics and Software Engineering student in Turkey. I'm mainly interested in building websites, games, native mobile/desktop applications, robotics and maybe a little bit of AI. In terms of design, I lean more towards modernism, and I am willing to venture into illustration and 3D modelling.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### Apart from a few progamming languages, I can speak Arabic, English and Turkish. My hobbies include playing the guitar (i suck), playing the YoYo, watching Anime, reading Manga, and of course — programming & design.
-
----
-
-<h2 style="border-bottom: none !important;"> Technologies: </h2>
-
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/javascript.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/css.svg" />
-<img align="left" alt="PY" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/python.svg" />
-<img align="left" alt="ARDUINO" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/arduino.svg" />
-<img align="left" alt="RPI" width="21px" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" />
-
-<img align="left" alt="SCSS" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/sass.svg" />
-<img align="left" alt="TLWND" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/tailwindcss.svg" />
-<img align="left" alt="PSTCSS" width="27px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/postcss.svg" />
-<img align="left" alt="BTSTRP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
-<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/git.svg" />
-<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/json.svg" />
-<img align="left" alt="ESLINT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/eslint.svg" />
-<img align="left" alt="NODE" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/nodejs.svg" />
-<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/npm.svg" />
-<img align="left" alt="SVG" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/svg.svg" />
-<img align="left" alt="FIREBASE" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/firebase.svg" />
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white&color=272a37) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white&color=4a2ec4) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38bdf8)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563d7c) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&color=cd6799)
 
 
-<img align="left" alt="ELECTRON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=68a063) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&color=368fb9) 
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&color=00989d)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&color=bc1142)
 
 
-
-<br />
-<br />
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white&color=00005b) ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=001833)  	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=1e1e1e)
 
 
-<h2 style="border-bottom: none !important;"> Learning: </h2>
-
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/c.svg" />
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/cpp.svg" />
-<img align="left" alt="RUST" width="26px" src="https://eravila.files.wordpress.com/2021/12/rust-logo.png" />
-<img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/swift.svg" />
-<img align="left" alt="REACT" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/react.svg" />
-<img align="left" alt="VUE" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/vue.svg" />
-<img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/typescript.svg" />
-<img align="left" alt="BABEL" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/babel.svg" />
-<img align="left" alt="DOCKER" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/e4a448bd911676b1fccf4b47a80f99ed35002dc3/icons/docker.svg" />
-
-<br />
-<br />
+# Learning
 
 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&color=f05035) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)       ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=3178c6)   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white&color=ff3e00) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=e65b29)    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&color=eb7700)
 
-<h2 style="border-bottom: none !important;"> Connect: </h2>
-
-
-[<img style="fill: white !important;" align="left" alt="codeSTACKr.com" width="22px" src="globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="instagram.svg" />][instagram]
-
-<br />
-
----
 
 <p align="center">
 <a href="https://github.com/HasanTheSyrian">    <!-- will change to portfolio in the future -->
@@ -72,13 +41,5 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/HasanTheSyrian">  <!-- will change to portfolio in the future -->
-    <img width="100%" src="https://activity-graph.cyclic.app/graph?username=HasanTheSyrian&theme=react-dark&point=d5e6fe&line=5faaed&color=5faaed" />
-  </a>
-</p>
 
-
-[website]: https://syrian.dev
-[twitter]: https://twitter.com/hasanalaref999
-[instagram]: https://www.instagram.com/hasanthesyrian_/
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=HasanTheSyrian&theme=react-dark&point=d5e6fe&line=5faaed&color=5faaed&custom_title=Contribution%20Graph&radius=7)](https://github.com/HasanTheSyrian/)
