@@ -74,11 +74,9 @@
 
 <p align="center">
   <a href="https://github.com/HasanTheSyrian">  <!-- will change to portfolio in the future -->
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HasanTheSyrian&theme=react-dark&point=d5e6fe&line=5faaed&color=5faaed" />
+    <img width="100%" src="https://activity-graph.cyclic.app/graph?username=HasanTheSyrian&theme=react-dark&point=d5e6fe&line=5faaed&color=5faaed" />
   </a>
 </p>
-
-##### Cards by ***DenverCoder1*** and ***Ashutosh00710***
 
 
 [website]: https://syrian.dev
