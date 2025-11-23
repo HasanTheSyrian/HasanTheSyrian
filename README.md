@@ -1,6 +1,6 @@
 # Hello, I'm Hasan
 
-#### I'm a Mechatronics Engineering student in İstanbul, Turkey. I'm interested in a multitude of things from building full-stack web applications to designing electrical circuits. 
+#### I'm a Mechatronics Engineer in İstanbul, Turkey. I'm interested in a multitude of things from building full-stack web applications to designing electrical circuits. 
 
 #### My hobbies include playing the guitar and the YoYo. 
 
@@ -43,3 +43,4 @@
 
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=HasanTheSyrian&theme=react-dark&point=d5e6fe&line=5faaed&color=5faaed&custom_title=Contribution%20Graph&radius=7)](https://github.com/HasanTheSyrian/)
+
