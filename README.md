@@ -1,12 +1,8 @@
 # Hello, I'm Hasan
 
-#### I'm a Mechatronics Engineer in İstanbul, Turkey. I'm interested in a multitude of things from building full-stack web applications to designing electrical circuits. 
+#### I'm a Mechatronics Engineer in İstanbul, Turkey. 
 
 #### My hobbies include playing the guitar and the YoYo. 
-
-# Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasanthesyrian_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16951917) 
 
 # Technologies
 
